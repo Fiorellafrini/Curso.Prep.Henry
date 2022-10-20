@@ -1,0 +1,22 @@
+h1 {
+    color: deeppink;
+}
+img {
+    width:400px;
+}
+.thirdDiv {
+    height:600px; 
+    width:500px;
+    background-color:rgb(127, 156, 209);
+    
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+
+}
+#thirdDiv {
+    padding: 50px;
+    border: 2px solid black ;
+    
+}
